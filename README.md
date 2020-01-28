@@ -3,7 +3,7 @@ UTEK Programming Competition 2020
 
 ### Problem Description:
 
-A librarian wants to arrange books following the library's updated catalog. There are thousands of new books to be added and thousands to remove or replace. The task is to change the current arrangement of books to a new arrangement with the optimal set of moves. See utek2020_programming_package.pdf for details
+A librarian wants to arrange books following the library's updated catalog. There are thousands of new books to be added and thousands to remove or replace. The task is to change the current arrangement of books to a new arrangement with the optimal set of moves. See [utek2020_programming_package.pdf](https://github.com/ll-O-ll/utek2020-programming-competition/blob/master/utek2020_programming_package.pdf) for details
 
 Use Python 3.6<
 
