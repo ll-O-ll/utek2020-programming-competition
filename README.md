@@ -28,5 +28,5 @@ input_file could be any argument in the following list:
 + part32.in
 + part33.in
 + part34.in
-output files are stored in the [output-files](../output-files) folder and have the same names and order as the input files.
+output files are stored in the [output-files](./output-files) folder and have the same names and order as the input files.
 
